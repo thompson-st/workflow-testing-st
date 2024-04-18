@@ -1,2 +1,2 @@
 # workflow-testing-st
-Practive git commands
+Practice git commands
